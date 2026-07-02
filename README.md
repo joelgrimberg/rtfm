@@ -1,4 +1,4 @@
-# rtfm
+# RTFM
 
 A practical manual for interacting with me
 
